@@ -35,8 +35,6 @@ fn main() {
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=herdersonriker@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/sousaantoni0/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/moz4rtdev/" title="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://t.me/moz4rtdev" title="Telegram" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-Telegram?style=flat-square&logo=telegram&logoSize=auto&color=gray&link=https://t.me/mallocdev" alt="Telegram"></a>
   <a href="https://x.com/moz4rtdev">
